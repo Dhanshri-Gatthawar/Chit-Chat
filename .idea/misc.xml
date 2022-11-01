@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/drawable-v24/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/drawable-v24/bg_reciver.xml" value="0.1415" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/drawable-v24/bg_sender.xml" value="0.1415" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/drawable-v24/ic_whatsapp_greensquare_logo_wine.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/activity_chat_detail.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/fragment_chats.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/sample_reciver.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/sample_sender.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/layout/sample_show_users.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/Documents/Android Studio/Chat_SGGS2/app/src/main/res/menu/menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
